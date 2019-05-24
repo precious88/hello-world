@@ -1,5 +1,1 @@
-# hello-world
-precious repository
-my name is precious udomah.
-I like working on APIs.
-So nice to be among the github family
+News API for Chatfuel - Get article suggestions for the topic you want from this API.
